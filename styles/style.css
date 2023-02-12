@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+/*--------------header section start----*/
+header{
+    position: absolute;
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+    background: url(../images/banner/banner3.png);
+}
+.banner-title{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 800px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 70px;
+    text-align: right;
+    font-family: 'Work Sans';
+}
+.banner-para{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 800px;
+    top: 450px;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+}
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1130px;
+    top: 578px;
+}
+/*--------header section end---------*/
+/*----------failures section start*/
+.failures{
+    position: absolute;
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+.failures-content{
+    position: absolute;
+    width: px;
+    height: px;
+    left: 700px;
+    top: 250px;
+}
+.failures-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-family: 'Work Sans';
+}
+.failures-para{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.failures-check{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.fa-solid{
+    color: rgb(44, 187, 44);
+}
+/*----------failures section end*/
+/*----------my plans section start*/
+.plans-title{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+}
+.skills-container{
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    left: 230px;
+    top: 1889px;
+    display: flex;
+    text-align: center;
+}
+.skills{
+    margin: 0px;
+    padding: 100px;
+}
+.skills-title{
+    
+}
+.always-main{
+    background-image: url(../images/gradient1.png);
+    position: absolute;
+    width: 1141px;
+    height: 202.96px;
+    left: 230px;
+    top: 2200px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    border-radius: 8px;
+}
+.always{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+    color: #FFFFFF;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Work Sans';
+}
+.btn-call{
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+}
+/*----------my plans section    end*/
+.footer{
+    position: absolute;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2600px;
+    background:black;
+    color: #FFFFFF;
+    
+}
+.footer-subs{
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    margin-left: 1000px;
+    
+}
